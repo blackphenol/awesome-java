@@ -589,7 +589,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JMockit](http://jmockit.org/) - Mocks static, final methods and more.
 * [JUnit](http://junit.org/) - Common testing framework.
 * [JUnitParams](https://pragmatists.github.io/JUnitParams/) - Creation of readable and maintainable parametrised tests.
-* [JWebUnit](https://jwebunit.github.io/jwebunit/) - JWebUnit is a Java-based testing framework for web applications.
+* [JWebUnit](https://jwebunit.github.io/jwebunit/) -  It wraps existing testing frameworks such as HtmlUnit and Selenium with a unified, simple testing interface to allow you to quickly test the correctness of your web applications.
 * [Mockito](https://github.com/mockito/mockito) - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
 * [Moco](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks, Duke's Choice Award 2013.
 * [PIT](http://pitest.org) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test-suites.
